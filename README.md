@@ -22,5 +22,5 @@ A professional, single-file GUI tool built with Python that turns a project fold
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/code-documenter.git
+   git clone https://github.com/hsnovcavidan58-ai/code-documenter.git
    cd code-documenter
